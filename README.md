@@ -60,5 +60,4 @@ Train model
          ├── main.py                                    # core of this repo - train ScrabbleGAN
          ├── scrabble_gan.gin                           # all dependencies are handled here (gin config file)
     
- ## License
- [License](LICENSE)
+
